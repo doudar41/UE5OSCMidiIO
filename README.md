@@ -17,13 +17,4 @@ Plugins used for this projects should be activated, if they are not you'll need:
 
 Download project open it with UE5 5.4 version.
 
-## Usage
 
-
-
-## Additional Documentation and Acknowledgments
-
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
