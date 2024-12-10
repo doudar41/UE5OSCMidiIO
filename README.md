@@ -10,7 +10,7 @@ Download project open it with UE5 5.4 I didn't test it on other versions yet.
 
 Plugins used for this projects should be activated, if they are not you'll need: 
 
-* OSC plugig
+* OSC plugin
 * Midi Device Support
 
 ### Installation
